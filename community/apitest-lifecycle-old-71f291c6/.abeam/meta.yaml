@@ -1,0 +1,10 @@
+approval_status: approved
+binary_stub_paths: []
+has_binaries: false
+has_scripts: false
+is_bundle: false
+official: false
+package_kind: md
+skill_id: apitest-lifecycle-old-71f291c6
+source_snapshot_key: apitest-lifecycle-old-71f291c6/snapshots/1.0.0-b170cb0e84f7
+version: 1.0.0
